@@ -29,7 +29,8 @@
         alt="phone"
       >
       <div class="ProductCard-TransBox">
-        <p class="ProductCard-TransText">Read more</p></div>
+        <p class="ProductCard-TransText">Read more</p>
+      </div>
     </a>
     <h2 class="ProductCard-Title">Samsung Gem™</h2>
     <div class="Price ProductCard-Price">
@@ -50,9 +51,11 @@
       </div>
     </div>
     <div class="Actions">
-      <button type="button" class="Actions-CartButton">Add to cart</button>
+      <button type="button" class="Actions-CartButton">
+        Add to cart
+      </button>
       <button type="button" class="Actions-FavouriteButton">
-        <img class="test" src="img/icons/favourite.svg" alt="header-favourite">
+        <img class="test" src="img/icons/favourite.svg">
       </button>
     </div>
   </div>
