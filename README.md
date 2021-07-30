@@ -1,3 +1,7 @@
+<table>
+<tr>
+<td>
+
 ```json
 {
   "type": "phone",
@@ -11,6 +15,10 @@
   "ram": "256MB"
 }
 ```
+
+</td>
+<td>
+
 ```html
 <div class="ProductCard-Wrapper">
   <div class="ProductCard">
@@ -50,3 +58,7 @@
   </div>
 </div>
 ```
+
+</td>
+</tr>
+</table>
